@@ -1,4 +1,4 @@
-# Data-visualization
+# Data Visualization
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -40,8 +40,8 @@ Which includes classification and regression, ie the ability to take a data set 
 
 ### Improving NoteBook
 
-Within this part we were asked to solve probable questions.
-Some of which were solved with the help of Bayes' theorem, random variables,  inference and understanding from graphs.
+Last semester we were given a submission classification project that tests our ability to predict accuracy percentages using classified models.
+When we had very few tools in our arsenal, today we have a lot of tools in our arsenal that we can work with to get and predict high accuracy.
 
 Jump to my Improving NoteBook NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
@@ -76,19 +76,9 @@ Jump to my Cats vs Dogs NoteBook click [here](https://github.com/GalKoaz/Data-vi
 
 ### Hands Movement
 
-Who does not like mushrooms 🍄🍄🍄 in his pizza or pasta ?!? 
+The purpose of the Project is to classify between three different situations in the way people communicate with each other.The first is Spontaneous (autonomous) situation in which two people move their hands freely in front of each other.
+The second is a synchronous movement in which the two people move their hands together and the third is a movement in position Own. Where only one side moves the hands.
 
-I chose to work on a dataset to predict whether a mushrooms is edible or poisonous!
-
-mushrooms.csv dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one.
-
-* Time period: Donated to UCI ML 27 April 1987
-
-I'm pretty sure its make u a little curious, So what are you waiting for ?? 
-
-get in quickly to explore my work! 😀
-
-* link to my kaggle Classification: <a href="https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100">GalKoaz/Kaggle Mushrooms</a>
 
 Jump to my Hands Movement NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
@@ -124,7 +114,7 @@ Jump to my Hands Movement NoteBook click [here](https://github.com/GalKoaz/Data-
 
  Gal - koazgal@gmail.com
 
-Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
+Project Link: [https://github.com/GalKoaz/Data-visualization](https://github.com/GalKoaz/Data-visualization)
 
 
 <!-- SUPPORT -->
