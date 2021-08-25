@@ -15,7 +15,7 @@
       <li><a href="#cats-vs-dogs">Cats vs Dogs</a>
       </ul>
       <ul>
-      <li><a href="#hands">Hands Movement</a>
+      <li><a href="#hands-movement">Hands Movement</a>
       </ul>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -43,31 +43,31 @@ Which includes classification and regression, ie the ability to take a data set 
 Within this part we were asked to solve probable questions.
 Some of which were solved with the help of Bayes' theorem, random variables,  inference and understanding from graphs.
 
+Jump to my Improving NoteBook NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
+
 ---------
 
 ### Fashion Mnist
 
-In this section we were asked to answer a number of questions that indicate the ability to understand and internalize what is learned throughout the course related to pandas, numpy etc...
+Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits.
+
+The original MNIST dataset contains a lot of handwritten digits. Members of the AI/ML/Data Science community love this dataset and use it as a benchmark to validate their algorithms. In fact, MNIST is often the first dataset researchers try. "If it doesn't work on MNIST, it won't work at all", they said. "Well, if it does work on MNIST, it may still fail on others."
+
+For more details click [here](https://github.com/zalandoresearch/fashion-mnist)
+
+Jump to my Fashion Mnist NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Fashion-Mnist.ipynb)
 
 ---------
 
 ### Cats vs Dogs
 
-At this part you will be impressed by the ability to analyze information with the help of machine learning which gives us the ability to predict numerical predictions which are beneficial to man and even to the whole globe,
-In the following lines I will explain exactly all the data on which I performed the work.
+Web services are often protected with a challenge that's supposed to be easy for people to solve, but difficult for computers. Such a challenge is often called a CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) or HIP (Human Interactive Proof). HIPs are used for many purposes, such as to reduce email and blog spam and prevent brute-force attacks on web site passwords.
 
-So, grab the coffee and cookies and tighten the belt before takeoff!
+Asirra (Animal Species Image Recognition for Restricting Access) is a HIP that works by asking users to identify photographs of cats and dogs. This task is difficult for computers, but studies have shown that people can accomplish it quickly and accurately. Many even think it's fun! Here is an example of the Asirra interface:
 
-In Each Notebook (Classification, Regression) we following in these steps for make sure we working by the book.
+Asirra is unique because of its partnership with Petfinder.com, the world's largest site devoted to finding homes for homeless pets. They've provided Microsoft Research with over three million images of cats and dogs, manually classified by people at thousands of animal shelters across the United States. Kaggle is fortunate to offer a subset of this data for fun and research.
 
-* Step 1 - Import Libraries and load the data.
-* Step 2 - Data Cleaning, checking for nulls value and fill them.
-* Step 3 - Variable Descriptions, Discover and Visualize the Data to Gain Insights.
-* Step 4 - Split the data into train and test.
-* Step 5 - Applying Machine Learning Models.
-* Step 6 - Evaluting each Model and fine tuning in order to achieve the best results.
-* Step 7 - Determining which Model is optimal for our data set.
-
+Jump to my Cats vs Dogs NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Cats-Vs-Dogs.ipynb)
 
 
 ---------
@@ -89,6 +89,8 @@ I'm pretty sure its make u a little curious, So what are you waiting for ??
 get in quickly to explore my work! 😀
 
 * link to my kaggle Classification: <a href="https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100">GalKoaz/Kaggle Mushrooms</a>
+
+Jump to my Hands Movement NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
 ---------
 
