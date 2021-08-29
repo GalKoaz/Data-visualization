@@ -33,6 +33,11 @@ Introduction to Data Science Final Project 2021 - Data Visualization
 
 In this project we will use all the tools we learned during the course on machine learning, in the First notebook we asked to improve the notebook from last semester to the maximum accuracy we can get with all tools we know until today, in the second notebook we ask to deal with "Fashion Mnist" data set to create the best model can predict the image which each image have label of item, in the third notebook we ask to deal with Cat vs Dogs data frame: a lot of pictures of dogs and cat we try the best to create the best model to predict which the pictures is dog or cat with the best model and features we choose. In the last notebook we ask to deal with hands predicted movevent with 3 status (spontany,alone,sync) the big issue is to know how to load and prepare your data clean and visualization.
 
+In each Notebook i Used , StandardScaler , PCA: dimensionality reduction (each notebook I tryed to reach the maximum accuracy while with the minimum dimension. GridSearching to find the best estimators to reach the highest accuracy.
+
+Classifications Models : KNN , Random Forests, XGBoost, Voting , Bagging, Stacking, Logistic Regression, Gaussian Naive Bayes.
+
+
 "The world is just a one Big Data problem 😄"
 
 ---------
@@ -81,6 +86,16 @@ Jump to my Cats vs Dogs NoteBook click [here](https://github.com/GalKoaz/Data-vi
 
 The purpose of the Project is to classify between three different situations in the way people communicate with each other.The first is Spontaneous (autonomous) situation in which two people move their hands freely in front of each other.
 The second is a synchronous movement in which the two people move their hands together and the third is a movement in position Own. Where only one side moves the hands.
+
+explanation: 
+
+First, we want to see what our data frame looks like.
+
+Second, we will look for null values and an imbalance in the number of hands right to left in the number and also in the type ie (2,1) & (Right, Left), if there is an imbalance we will use the functions we have already registered to delete the unwanted number of hands and their type. In the RefreshData function to reset the indexes and correct null values. We will perform the process in each of the files and finally make sure that our data is indeed clean. We will connect the "RightHand" file to the "Alone" file by using the MergeRightHand function.
+
+Finally, with the help of the MergeR function, we will delay all the files into one large data frame with which we can proceed to the next step.
+
+Models area - we tryed to get the best accuracy with KNN , Random Forests, XGBoost, Voting , Bagging, Stacking, Logistic Regression.
 
 
 Jump to my Hands Movement NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
