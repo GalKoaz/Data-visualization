@@ -42,9 +42,9 @@ In this project we will use all the tools we learned during the course on machin
 Last semester we were given a submission classification project that tests our ability to predict accuracy percentages using classified models.
 When we had very few tools in our arsenal, today we have a lot of tools in our arsenal that we can work with to get and predict high accuracy.
 
-In This Notebook my Accuracy on the model is 100% . 
+In This Notebook my Accuracy on the best model is 100% . 
 
-The Notebook Also Uploaded to Kaggle if you are want to see and learn check out [https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100](https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100) with bronze medal voted !
+The Notebook Also Uploaded to Kaggle and get bronze medal voted !! if you are want to see and learn check out [https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100](https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100)
 
 Jump to my Improving NoteBook NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
