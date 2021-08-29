@@ -46,7 +46,7 @@ In This Notebook my Accuracy on the best model is 100% .
 
 The Notebook Also Uploaded to Kaggle and get bronze medal voted !! if you are want to see and learn check out [https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100](https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100)
 
-Jump to my Improving NoteBook NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
+Jump to my Improving NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
 ---------
 
