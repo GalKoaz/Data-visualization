@@ -63,6 +63,8 @@ The original MNIST dataset contains a lot of handwritten digits. Members of the 
 
 For more details click [here](https://github.com/zalandoresearch/fashion-mnist)
 
+Final Score: 0.8872 with 84 components
+
 Jump to my Fashion Mnist NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Fashion-Mnist.ipynb)
 
 ---------
@@ -75,8 +77,9 @@ Asirra (Animal Species Image Recognition for Restricting Access) is a HIP that w
 
 Asirra is unique because of its partnership with Petfinder.com, the world's largest site devoted to finding homes for homeless pets. They've provided Microsoft Research with over three million images of cats and dogs, manually classified by people at thousands of animal shelters across the United States. Kaggle is fortunate to offer a subset of this data for fun and research.
 
-Jump to my Cats vs Dogs NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Cats-Vs-Dogs.ipynb)
+Final Score: 0.6786 with 349 components
 
+Jump to my Cats vs Dogs NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Cats-Vs-Dogs.ipynb) 
 
 ---------
 
@@ -97,6 +100,7 @@ Finally, with the help of the MergeR function, we will delay all the files into 
 
 Models area - we tryed to get the best accuracy with KNN , Random Forests, XGBoost, Voting , Bagging, Stacking, Logistic Regression.
 
+Final Score: 0.8912 with 25 components
 
 Jump to my Hands Movement NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
