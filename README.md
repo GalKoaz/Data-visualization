@@ -29,10 +29,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Introduction to Data Science Final Project 2020
+Introduction to Data Science Final Project 2021 - Data Visualization 
 
-In this project we will use all the tools we learned during the course on machine learning, in the first stage we will deal with the ability to solve probability exercises, in the second stage we will focus on our internalization and realization of tools learned for pandas, numpy and visualization, in the last part we will focus on machine learning.
-Which includes classification and regression, ie the ability to take a data set and analyze it to predict exact values and use appropriate models for this.
+In this project we will use all the tools we learned during the course on machine learning, in the First notebook we asked to improve the notebook from last semester to the maximum accuracy we can get with all tools we know until today, in the second notebook we ask to deal with "Fashion Mnist" data set to create the best model can predict the image which each image have label of item, in the third notebook we ask to deal with Cat vs Dogs data frame: a lot of pictures of dogs and cat we try the best to create the best model to predict which the pictures is dog or cat with the best model and features we choose. In the last notebook we ask to deal with hands predicted movevent with 3 status (spontany,alone,sync) the big issue is to know how to load and prepare your data clean and visualization.
 
 "The world is just a one Big Data problem 😄"
 
@@ -42,6 +41,10 @@ Which includes classification and regression, ie the ability to take a data set 
 
 Last semester we were given a submission classification project that tests our ability to predict accuracy percentages using classified models.
 When we had very few tools in our arsenal, today we have a lot of tools in our arsenal that we can work with to get and predict high accuracy.
+
+In This Notebook my Accuracy on the model is 100% . 
+
+The Notebook Also Uploaded to Kaggle if you are want to see and learn check out [https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100](https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100) with bronze medal voted !
 
 Jump to my Improving NoteBook NoteBook click [here](https://github.com/GalKoaz/Data-visualization/blob/main/Classification.ipynb)
 
